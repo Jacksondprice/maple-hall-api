@@ -1,0 +1,49 @@
+student_id,first_name,last_name,date_of_birth,grade,homeroom,student_email,guardian_name,guardian_email,guardian_phone,iep,lunch_status
+4017230,Chloe,Torres,2012-03-08,9,E162,chloe.torres12@highplainsprep.org,Malik Torres,maliktorres66@birchletters.com,720-958-9166,False,paid
+4634494,Gabriel,Rivera,2010-02-04,11,E274,gabriel.rivera10@highplainsprep.org,Jasmine Rivera,jasminerivera75@asterwire.net,(602) 959-9424,True,paid
+5261508,Delilah,Ortiz,2010-06-15,11,A153,delilah.ortiz10@highplainsprep.org,Aisha Ortiz,aortiz95@asterwire.net,(305) 958-9488,False,reduced
+5231557,Tyler,Quintero,2016-09-24,5,A249,tyler.quintero16@highplainsprep.org,Elijah Quintero,elijah.quintero@cinderinbox.net,(407) 959-5834,False,paid
+5874060,Imani,Gupta,2016-12-23,5,D103,imani.gupta16@highplainsprep.org,Nevaeh Gupta,nevaeh.gupta@willowdispatch.net,(214) 959-6155,False,reduced
+1669357,Maya,Shah,2012-12-07,9,A272,maya.shah12@highplainsprep.org,Javier Shah,javiershah64@cinderwire.net,(704) 959-9935,True,paid
+3413099,Xavier,Washington,2011-11-18,10,D205,xavier.washington11@highplainsprep.org,Yara Washington,ywashington75@asterwire.net,(281) 959-6874,False,free
+6049547,Fatima,Quintero,2014-08-19,7,A147,fatima.quintero14@highplainsprep.org,Jackson Quintero,jacksonquintero96@maplewire.net,919-958-7204,False,reduced
+4604667,Emily,Abernathy,2012-09-26,9,B132,emily.abernathy12@highplainsprep.org,Daniel Kim,danielkim84@heronwire.net,832-959-0013,False,reduced
+6589749,Diego,Kaur,2015-07-29,6,C112,diego.kaur15@highplainsprep.org,Alejandro Stewart,stewart.alejandro@cinderdispatch.net,(312) 958-2719,False,reduced
+3505768,Ethan,Garcia,2013-02-20,8,E247,ethan.garcia13@highplainsprep.org,Kevin Garcia,kgarcia98@birchinbox.net,713-958-3470,False,paid
+3968943,Destiny,Delgado,2015-03-22,6,C306,destiny.delgado15@highplainsprep.org,Brianna Delgado,delgado.brianna@maplewire.net,(312) 959-8430,True,reduced
+3965097,Destiny,Delgado,2011-05-17,10,E251,destiny.delgado11@highplainsprep.org,Nevaeh Vasquez,nevaeh.vasquez@heronmail.net,919-958-7680,False,paid
+9742966,Quinn,Bennett,2014-05-25,7,E276,quinn.bennett14@highplainsprep.org,Jackson Bennett,jackson_bennett7@birchinbox.net,206-958-3048,False,paid
+4225708,Ava,Nguyen,2012-07-07,9,C158,ava.nguyen12@highplainsprep.org,Jasmine Nguyen,jasminenguyen7@slatedispatch.net,(210) 958-0135,False,reduced
+4327329,Caleb,Tran,2014-12-31,7,C129,caleb.tran14@highplainsprep.org,Owen Tran,owentran20@cinderinbox.net,773-959-3257,False,free
+1975622,Omar,Rivera,2010-02-26,11,E227,omar.rivera10@highplainsprep.org,Chloe Torres,ctorres72@quillnote.net,615-959-3006,False,paid
+8479473,Tyler,Brooks,2015-09-14,6,E113,tyler.brooks15@highplainsprep.org,Kayla Simmons,ksimmons76@cinderinbox.net,704-959-8228,False,free
+4858607,Maya,Garcia,2015-02-13,6,B297,maya.garcia15@highplainsprep.org,Ava Garcia,garcia.ava@cinderwire.net,(773) 959-6874,False,reduced
+4585244,Javier,Garcia,2015-04-30,6,B228,javier.garcia15@highplainsprep.org,Delilah Garcia,garcia.delilah@willowdispatch.net,210-959-5137,False,paid
+5896296,Yusuf,Wright,2011-02-25,10,A294,yusuf.wright11@highplainsprep.org,Zoe Wright,wright.zoe@heronmail.net,303-958-2878,False,paid
+6113052,Isabella,Williams,2013-05-03,8,A251,isabella.williams13@highplainsprep.org,Jada Stewart,jada.stewart@heronmail.net,(773) 958-1972,False,paid
+8996509,Josiah,Chen,2011-08-23,10,A270,josiah.chen11@highplainsprep.org,Chloe Chen,cchen96@birchdispatch.net,(512) 959-7834,False,free
+9555350,Aaliyah,Ferreira,2011-09-04,10,E126,aaliyah.ferreira11@highplainsprep.org,Malik Ferreira,mferreira76@tidalbox.net,(206) 958-2321,False,paid
+8897928,Mason,Wright,2013-04-07,8,C276,mason.wright13@highplainsprep.org,Valeria Stewart,valeria_stewart8@cinderinbox.net,(919) 959-9562,True,paid
+2583988,Yara,Walker,2016-07-24,5,E170,yara.walker16@highplainsprep.org,Ruby Walker,rubywalker46@birchletters.com,(832) 959-1687,False,reduced
+7342281,Jada,Foster,2012-10-31,9,A141,jada.foster12@highplainsprep.org,Valeria Foster,vfoster84@asterwire.net,817-959-5698,False,free
+2870646,Camila,Diaz,2015-07-25,6,A140,camila.diaz15@highplainsprep.org,Delilah Diaz,diaz.delilah@cobaltletters.com,(210) 959-6289,False,paid
+2156305,Omar,Diaz,2011-01-04,10,A124,omar.diaz11@highplainsprep.org,Jasmine Diaz,jasmine_diaz6@birchletters.com,303-958-0602,True,paid
+7862374,Yusuf,Washington,2015-03-08,6,C229,yusuf.washington15@highplainsprep.org,Leilani Washington,leilani_washington1@asterwire.net,(919) 959-6970,False,paid
+9553044,Malik,Diaz,2013-12-17,8,A205,malik.diaz13@highplainsprep.org,Diego Diaz,diegodiaz39@birchdispatch.net,972-959-4565,False,reduced
+1357048,Nevaeh,Quintero,2015-02-10,6,E226,nevaeh.quintero15@highplainsprep.org,Leilani Quintero,lquintero78@tidalletters.com,404-958-5108,False,paid
+5771287,Sofia,Sanchez,2013-04-17,8,A193,sofia.sanchez13@highplainsprep.org,Nathan Sanchez,nathan.sanchez@cinderinbox.net,312-959-2914,False,reduced
+5286000,Isaiah,Brooks,2014-04-06,7,B146,isaiah.brooks14@highplainsprep.org,Caleb Brooks,brooks.caleb@birchdispatch.net,(281) 959-1424,False,paid
+2487446,Quinn,Sullivan,2012-03-19,9,B261,quinn.sullivan12@highplainsprep.org,Grace Sullivan,sullivan.grace@birchdispatch.net,(407) 958-4372,False,reduced
+8258263,Tyler,Patel,2012-02-02,9,D306,tyler.patel12@highplainsprep.org,Benjamin Patel,benjaminpatel50@quillnote.net,407-959-4430,False,paid
+1591174,Daniel,Bennett,2015-10-01,6,C299,daniel.bennett15@highplainsprep.org,Andre Bennett,bennett.andre@heronmail.net,(786) 959-4052,False,paid
+2391324,Olivia,Simmons,2013-11-22,8,A154,olivia.simmons13@highplainsprep.org,Isaiah Simmons,isaiah.simmons@heronmail.net,(786) 959-9478,False,paid
+5432362,Owen,Kowalski,2015-01-19,6,E184,owen.kowalski15@highplainsprep.org,Maya Kowalski,mkowalski83@willowdispatch.net,404-959-9956,False,paid
+3828279,Andre,Tran,2014-06-06,7,D106,andre.tran14@highplainsprep.org,Leilani Tran,leilani.tran@cinderdispatch.net,713-958-0705,False,paid
+9455288,Leilani,Alvarez,2012-12-10,9,C315,leilani.alvarez12@highplainsprep.org,Noah Alvarez,noah_alvarez1@birchinbox.net,(214) 959-2980,False,reduced
+1571182,Elijah,Hernandez,2012-08-03,9,E251,elijah.hernandez12@highplainsprep.org,Mateo Hernandez,mateo_hernandez9@cinderinbox.net,303-958-2036,False,paid
+4562175,Alejandro,Mitchell,2016-12-07,5,E300,alejandro.mitchell16@highplainsprep.org,Jasmine Morales,morales.jasmine@heronwire.net,786-958-7843,False,paid
+1444613,Aaliyah,Cruz,2014-02-05,7,B218,aaliyah.cruz14@highplainsprep.org,Fatima Cruz,cruz.fatima@tidalletters.com,281-959-1195,False,free
+8297084,Chloe,Foster,2013-12-05,8,C285,chloe.foster13@highplainsprep.org,Liam Foster,liamfoster62@tidalbox.net,786-958-9107,False,paid
+2309842,Zoe,Sullivan,2016-09-29,5,E193,zoe.sullivan16@highplainsprep.org,Chloe Sullivan,csullivan88@cobaltletters.com,512-958-3753,True,free
+6294976,Dominic,Ramirez,2011-06-16,10,A221,dominic.ramirez11@highplainsprep.org,Alejandro Ramirez,alejandro.ramirez@heronmail.net,404-958-5563,True,paid
+1368672,Javier,Garcia,2015-09-12,6,E306,javier.garcia15@highplainsprep.org,Jada Young,jada_young3@willowdispatch.net,678-958-9137,False,paid
